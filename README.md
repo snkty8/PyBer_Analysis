@@ -12,10 +12,10 @@
 
 - Simarily, all three cit types show a dip on 03-03-2019.  Depending on the area, there may have been weather related issues going on during this time.
 
-    DataFrame: Far By City Type 
+                    DataFrame: Far By City Type 
 ![image](https://github.com/snkty8/PyBer_Analysis/blob/main/Resources/weekly_trip_data_df.png)
 
-    Plot: Fare By City Type
+                    Plot: Fare By City Type
 ![image](https://github.com/snkty8/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary of Analysis
