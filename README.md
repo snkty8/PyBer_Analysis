@@ -6,6 +6,9 @@
 
 ## Results of Analysis
 
+![image](https://github.com/snkty8/PyBer_Analysis/blob/main/Resources/Summary.png)
+
+
 - As seen in the plot, Urban fares were the highest of the three types of cities. Because urban populations are usually higher than other city types, this seems typical. 
 
 - All three city types have a spike in fares on 2-24-2019.  There must have a been a major event taking place in the area these fares were recorded.  This is easily seen in the plot, and the dataframe.
